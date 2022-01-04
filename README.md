@@ -9,11 +9,7 @@ https://play.google.com/store/apps/details?id=com.tysf1.dashboardactivity
 
 Screenshots :
 One Motive
-![image](https://user-images.githubusercontent.com/96836317/148017457-94b31b03-d636-4bef-9738-03ff83071d7b.png)
-![image](https://user-images.githubusercontent.com/96836317/148017472-ac9c969e-c260-4a2b-ba8b-1c42d601615f.png)
-![image](https://user-images.githubusercontent.com/96836317/148017488-aafe62ac-c849-4bcb-b688-519acc539743.png)
-![image](https://user-images.githubusercontent.com/96836317/148017499-2f0072f3-1015-4134-a0a2-264bef20a545.png)
-![image](https://user-images.githubusercontent.com/96836317/148017509-66a39264-9cb1-4fb6-8fe5-ed05a60f63b9.png)
+![image](https://user-images.githubusercontent.com/96836317/148019056-c2196e55-9b6d-4bce-b7ff-d58aee772b83.png)
 
 Admin Application
 ![image](https://user-images.githubusercontent.com/96836317/148017600-baae0b5f-8501-42d0-93a5-892a17ade4fb.png)
