@@ -16,3 +16,12 @@ Admin Application
 
 ![image](https://user-images.githubusercontent.com/96836317/148019159-e314ee1b-77fd-4535-83c4-a5462fb4f778.png)
 
+Donation of Food items from Client-side app (One Motive):
+
+![image](https://user-images.githubusercontent.com/96836317/148370247-e074d446-3af0-442c-af66-576fc042b42a.png)
+
+Notification of Donation on Admin-side app:
+
+![image](https://user-images.githubusercontent.com/96836317/148370301-0fd751d3-19a6-45c8-bb7e-4d79dba245f4.png)
+
+
